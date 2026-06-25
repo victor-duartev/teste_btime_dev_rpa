@@ -72,13 +72,13 @@ O arquivo deve estar localizado em:
 input/CNPJS.csv
 ```
 
-Formato esperado:
+Formato esperado (com base na tabela Bacen):
 
-| CNPJ           |
-| -------------- |
-| 00000000000000 |
-| 11111111111111 |
-| 22222222222222 |
+| CNPJ     |
+| -------- |
+| 00000000 |
+| 11111111 |
+| 22222222 |
 
 Separador utilizado:
 
