@@ -192,4 +192,4 @@ Essa estrutura facilita a manutenção e evolução do código, mantendo a lógi
 
 ## Autor
 
-**Victor Duarte Venâncio**
+**Victor Duarte Venancio**
