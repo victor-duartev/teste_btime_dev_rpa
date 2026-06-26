@@ -131,10 +131,10 @@ Logs: app.log
 ## Execução
 
 Web:
-python main.py
+python web_crapping.py
 
 API:
-python main_api.py
+python api.py
 
 ---
 
